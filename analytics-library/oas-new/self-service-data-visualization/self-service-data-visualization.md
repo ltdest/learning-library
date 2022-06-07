@@ -100,11 +100,11 @@ This lab assumes you have:
 
       Once the spreadsheet has been uploaded,  **Click**  "Add" in the upper right-hand corner.
 
-      !["reviewinventorydataandadd"](./images/reviewinventorydataandadd.png)
+      !["reviewinventorydataandadd"](./images/reviewinventorydataandadd.png )
 
 11.   Navigate back to the "New Workbook" tab located up above the workbook area.
 
-      !["navigatebacktonewworkbookpage"](./images/navigatebacktonewworkbookpage.png)
+      !["navigatebacktonewworkbookpage"](./images/navigatebacktonewworkbookpage.png )
 
       Notice the inventory dataset is available to add to the workbook.  
 
