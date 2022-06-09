@@ -100,24 +100,24 @@ This lab assumes you have:
 
       Once the spreadsheet has been uploaded,  **Click**  "Add" in the upper right-hand corner.
 
-      !["reviewinventorydataandadd"](./images/reviewinventorydataandadd.png )
+       !["reviewinventorydataandadd"](./images/reviewinventorydataandadd.png )
 
 11.   Navigate back to the "New Workbook" tab located up above the workbook area.
 
-      !["navigatebacktonewworkbookpage"](./images/navigatebacktonewworkbookpage.png )
+       !["navigatebacktonewworkbookpage"](./images/navigatebacktonewworkbookpage.png )
 
       Notice the inventory dataset is available to add to the workbook.  
 
-      - **Click**  "inventory"  "Add to workbook"
+       **Click**  "inventory"  "Add to workbook"
 
-      !["selectinventorydataset"](./images/selectinventorydataset.png )
+       !["selectinventorydataset"](./images/selectinventorydataset.png )
 
 12.    Let's define a relationship between the subject area – SampleApp and the inventory spreadsheet to join the data sources for further
        analysis.
 
        From the top - middle of the workbook, notice three navigation options - "Data"  "Visualize"  and "Present"
 
-       - **Click**  "Data"
+       **Click**  "Data"
 
        !["navigatebacktodata"](./images/navigatebacktodata.png " ")</if>
 
